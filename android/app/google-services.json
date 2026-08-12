@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532448756108",
+    "project_id": "quizwhiz-c27c2",
+    "storage_bucket": "quizwhiz-c27c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532448756108:android:fc8e93e720b427070596a9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_gXOsSWoUxZxb4KR1e42Gba0skpvrK9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
